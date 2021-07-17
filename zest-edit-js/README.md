@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Tabs.js contains all the tab as its children 
+and Tab.js contains description of particular tab
+
+CssEditor.js contains the design of the css editor
+CssExecute.js contains the file for running the css codes
+
+HtmlEditor.js contains the design of the HTML editor
+HtmlExecute.js contains the file for running the HTML codes
+
+JSEditor.js contains the design of the JavaScript editor
+JSExecute.js contains the file for executing the JavaScript codes
+
+ReactFileReader.js contains the files for uploading and browsing files
+
+useLocalStorage.js is used for storing real time data so that the data won't change
+
+###Video Demonstration link:
